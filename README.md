@@ -150,6 +150,7 @@ Example: Train and Predict **Flappy Bird**
 python Flappy_Bird/src/main.py
 ```
 
+--- 
 
 ## Repository Structure
 
